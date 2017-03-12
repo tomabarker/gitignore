@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(224, 203, 255);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 8em;
+    margin-top: -50px;
+    color: rgb(124, 103, 155);
+}
