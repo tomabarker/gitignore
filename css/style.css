@@ -9,3 +9,7 @@ h1 {
     margin-top: -50px;
     color: rgba(124, 103, 155, 0.5);
 }
+
+img {
+  max-width: 50%;
+}
